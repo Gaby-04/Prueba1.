@@ -105,3 +105,9 @@ git -M main
 git branch -M master
 git push -u origin main
 git push -u origin master
+git init
+touch pokedex.js
+git add .
+git commit -m "Agregando archivo"
+git push -u origin main
+git push -u origin master
