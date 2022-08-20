@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="63" last-seen="1660793972"/>
+    <application id="org.gnome.Nautilus.desktop" score="12" last-seen="1660979209"/>
+    <application id="gnome-initial-setup.desktop" score="272" last-seen="1660976860"/>
+    <application id="code_code.desktop" score="1830" last-seen="1660980680"/>
+    <application id="libreoffice-writer.desktop" score="0" last-seen="1660791564"/>
+    <application id="yelp.desktop" score="1" last-seen="1660793982"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1660791566"/>
+    <application id="org.gnome.Terminal.desktop" score="7958" last-seen="1660980523"/>
+    <application id="gnome-control-center.desktop" score="7228" last-seen="1660954110"/>
+    <application id="firefox_firefox.desktop" score="792" last-seen="1660980680"/>
+    <application id="update-manager.desktop" score="1" last-seen="1660786936"/>
+    <application id="gkbd-keyboard-display.desktop" score="1" last-seen="1660876045"/>
+    <application id="thunderbird.desktop" score="0" last-seen="1660794330"/>
+  </context>
+</application-state>

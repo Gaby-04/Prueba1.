@@ -1,0 +1,16 @@
+[2022-08-20 01:31:40.719] [exthost] [info] Extension host with pid 12897 started
+[2022-08-20 01:31:40.719] [exthost] [info] Skipping acquiring lock for /home/katherinesanchez/.config/Code/User/workspaceStorage/9827fd62ae50f926e362ee73104caa75.
+[2022-08-20 01:31:45.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-20 01:31:46.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-20 01:31:46.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-20 01:31:46.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-20 01:31:46.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-20 01:31:50.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-20 01:31:51.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-20 01:31:54.809] [exthost] [info] Eager extensions activated
+[2022-08-20 01:31:54.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-20 01:31:55.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-20 01:31:55.162] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-20 01:31:58.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-20 02:03:36.313] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-20 02:03:36.433] [exthost] [info] Extension host with pid 12897 exiting with code 0

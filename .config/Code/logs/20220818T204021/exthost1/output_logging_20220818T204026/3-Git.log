@@ -1,0 +1,11 @@
+[2022-08-19T02:40:29.136Z] Log level: Info
+[2022-08-19T02:40:29.153Z] [info] Validating found git in: git
+[2022-08-19T02:40:29.263Z] [info] Using git 2.34.1 from git
+[2022-08-19T02:40:29.362Z] > git rev-parse --show-toplevel [31ms]
+[2022-08-19T02:40:30.027Z] > git rev-parse --git-dir --git-common-dir [643ms]
+[2022-08-19T02:40:30.063Z] [info] Open repository: /home/katherinesanchez
+[2022-08-19T02:40:30.963Z] > git status -z -uall [778ms]
+[2022-08-19T02:40:31.031Z] > git symbolic-ref --short HEAD [10ms]
+[2022-08-19T02:40:31.130Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-08-19T02:40:31.168Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-08-19T02:40:31.188Z] > git remote --verbose [24ms]

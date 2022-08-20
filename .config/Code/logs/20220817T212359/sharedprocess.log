@@ -1,0 +1,8 @@
+[2022-08-17 21:24:04.700] [sharedprocess] [info] Starting worker process with pid 5719 (type: fileWatcher, window: 1).
+[2022-08-17 23:00:47.691] [sharedprocess] [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+[2022-08-17 23:00:47.712] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2022-08-17 23:00:51.141] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /home/katherinesanchez/.config/Code/CachedExtensionVSIXs/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-08-17 23:00:55.550] [sharedprocess] [info] Extracted extension to /home/katherinesanchez/.vscode/extensions/.4e90498e-cd0e-4d71-99bf-29f55a880b2d: equinusocio.vsc-material-theme-icons
+[2022-08-17 23:00:55.560] [sharedprocess] [info] Renamed to /home/katherinesanchez/.vscode/extensions/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-08-17 23:00:55.562] [sharedprocess] [info] Extracting completed. equinusocio.vsc-material-theme-icons
+[2022-08-17 23:00:55.568] [sharedprocess] [info] Extension installed successfully: equinusocio.vsc-material-theme-icons

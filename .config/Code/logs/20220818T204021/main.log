@@ -1,0 +1,12 @@
+[2022-08-18 20:40:21.912] [main] [info] update#setState idle
+[2022-08-18 20:40:24.841] [main] [info] Starting extension host with pid 4545 (fork() took 29 ms).
+[2022-08-18 20:40:36.130] [main] [info] Starting extension host with pid 4648 (fork() took 22 ms).
+[2022-08-18 20:40:37.673] [main] [info] Extension host with pid 4545 exited with code: 0, signal: null.
+[2022-08-18 20:40:51.921] [main] [info] update#setState checking for updates
+[2022-08-18 20:40:51.934] [main] [info] update#setState idle
+[2022-08-18 20:47:11.445] [main] [info] Enabling inspect port on extension host with pid 4648.
+[2022-08-18 21:15:59.230] [main] [info] Extension host with pid 4648 exited with code: 0, signal: null.
+[2022-08-18 21:16:00.873] [main] [info] Starting extension host with pid 7323 (fork() took 17 ms).
+[2022-08-18 21:18:01.333] [main] [info] Enabling inspect port on extension host with pid 7323.
+[2022-08-18 21:40:51.967] [main] [info] update#setState checking for updates
+[2022-08-18 21:40:51.970] [main] [info] update#setState idle

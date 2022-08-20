@@ -1,0 +1,5 @@
+[2022-08-20 01:31:20.010] [main] [info] update#setState idle
+[2022-08-20 01:31:26.477] [main] [info] Starting extension host with pid 12897 (fork() took 44 ms).
+[2022-08-20 01:31:50.020] [main] [info] update#setState checking for updates
+[2022-08-20 01:31:50.054] [main] [info] update#setState idle
+[2022-08-20 02:03:36.505] [main] [info] Extension host with pid 12897 exited with code: 0, signal: null.
